@@ -79,7 +79,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // fitur Hitung Mundur
 // Mengatur waktu akhir perhitungan mundur
-var countDownDate = new Date("dec 09, 2026 09:00:00").getTime();
+var countDownDate = new Date("dec 09, 2026 20:00:00").getTime();
 
 // Memperbarui hitungan mundur setiap 1 detik
 var x = setInterval(function () {
